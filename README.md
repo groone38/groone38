@@ -58,6 +58,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groone38&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: Most Used Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groone38&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
