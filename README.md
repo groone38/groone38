@@ -59,4 +59,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: Most Used Languages:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=groone38&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=groone38&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groone38&layout=compact&theme=vision-friendly-dark)
